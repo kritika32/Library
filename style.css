@@ -1,0 +1,21 @@
+.container{
+     background-image: url(back5.jpg); 
+    background-color: rgb(202, 164, 114);
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    border: 10px solid rgb(61, 52, 52);
+    border-radius: 2px;
+    
+}
+
+body{
+ background-image: url(back4.jpg);
+ background-repeat: no-repeat;
+ background-position:center ;
+ background-size: cover;
+}
+
+table {
+    border: 3px solid rgb(202, 164, 114);
+  }
